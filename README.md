@@ -128,16 +128,13 @@ Suggested study approach:
 
 ## **Disclaimer | 免责声明**
 
-This repository is for personal study and educational purposes only.
+- This repository is for personal study and educational purposes only.
+- It is not affiliated with, endorsed by, or sponsored by CFA Institute.
+- CFA® and Chartered Financial Analyst® are registered trademarks owned by CFA Institute.
 
-It is not affiliated with, endorsed by, or sponsored by CFA Institute.
-CFA® and Chartered Financial Analyst® are registered trademarks owned by CFA Institute.
-
-本 repository 仅用于个人学习和教育目的。
-本项目与 CFA Institute 无任何官方关联，也不代表 CFA Institute 官方资料。
-CFA® 和 Chartered Financial Analyst® 是 CFA Institute 拥有的注册商标。
-
-The notes are based on personal understanding and exam revision needs. They should not be treated as official CFA curriculum materials.
+- 本 repository 仅用于个人学习和教育目的。
+- 本项目与 CFA Institute 无任何官方关联，也不代表 CFA Institute 官方资料。
+- CFA® 和 Chartered Financial Analyst® 是 CFA Institute 拥有的注册商标。
 
 ---
 ## **Future Plan | 后续计划**
