@@ -128,11 +128,11 @@ Suggested study approach:
 
 ## **Disclaimer | 免责声明**
 
-- This repository is for personal study and educational purposes only.
+This repository is for personal study and educational purposes only
 - It is not affiliated with, endorsed by, or sponsored by CFA Institute.
 - CFA® and Chartered Financial Analyst® are registered trademarks owned by CFA Institute.
 
-- 本 repository 仅用于个人学习和教育目的。
+本 repository 仅用于个人学习和教育目的
 - 本项目与 CFA Institute 无任何官方关联，也不代表 CFA Institute 官方资料。
 - CFA® 和 Chartered Financial Analyst® 是 CFA Institute 拥有的注册商标。
 
@@ -166,11 +166,9 @@ Created by Pedro Xia as part of a personal finance, investment, and CFA exam rev
 
 ## Repository Structure | 项目结构
 
-The repository is organised by CFA topic areas.  
-Some sections are still under development and will be updated progressively.
+The repository is organised by CFA topic areas. Some sections are still under development and will be updated progressively.
 
-本项目按照 CFA 科目模块进行整理。  
-部分内容仍在持续更新中，结构会先保留，方便后续补充完整。
+本项目按照 CFA 科目模块进行整理。 部分内容仍在持续更新中，结构会先保留，方便后续补充完整。
 
 ```text
 CFA-Exam-Revision-Notes/
