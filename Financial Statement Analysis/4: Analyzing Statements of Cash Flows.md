@@ -57,7 +57,7 @@ The cash flow statement explains the change in cash between two balance sheet da
 Basic cash linkage:
 
 $$
-\begin{aligned}
+
 \text{Ending Cash}
 &=
 \text{Beginning Cash}
@@ -65,7 +65,6 @@ $$
 \text{Cash Inflows}
 -
 \text{Cash Outflows}
-\end{aligned}
 $$
 
 Accounts receivable linkage:
